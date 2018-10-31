@@ -1,0 +1,7 @@
+Selon que j'ouvrais l"image de la maquette sur le mac ou sur le pc, j'avais deux versions différentes: voir les deux captures exe8v1.jpg et exe8v2.jpg
+
+Bon exercice de créer les deux versions ;-)
+
+Raison pour laquelle il y a index et index v2 et aussi 2 fichiers css.
+
+Avé
