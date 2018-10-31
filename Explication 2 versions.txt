@@ -1,7 +1,24 @@
-Selon que j'ouvrais l"image de la maquette sur le mac ou sur le pc, j'avais deux versions diff�rentes: voir les deux captures exe8v1.jpg et exe8v2.jpg
+Selon que j'ouvrais l'image de la maquette sur le mac ou sur le pc, j'avais deux versions différentes: voir les deux captures exe8v1.jpg et exe8v2.jpg
 
-Bon exercice de cr�er les deux versions ;-)
+Bon exercice de créer les deux versions ;-)
 
 Raison pour laquelle il y a index et index v2 et aussi 2 fichiers css.
 
-Av�
+Commentaires sur le HTML
+------------------------
+Pour la 2° version j'ai divisé l'architecture en 3 parties: 1 div (id social_links) entre deux articles; le tout englobé dans une section.
+La partie supérieure n'a posé aucun problème particulier, pas plus d'ailleurs que la partie centrale avec les liens.
+
+Pour la partie inférieure "movies", merci à Leny de m'avoir rappelé qu'on pouvait encore et toujours créer une architecture avec des tableaux; cette vieille technique pourrie est tellement ancienne qu'on y pense plus ... et qu'on ne pense plus non plus qu'elle peut encore être utile.
+
+<joke mode>
+Comme quoi tout ce qui est vieux (et a fait le Viet-nam, n'est ce pas Leny) n'est pas forcément bon à jeter :-)
+</joke mode never ends>
+
+Il y a sans doute des différences minimes avec les deux maquettes, elles ne sont pas bien grandes et détaillées non plus.
+
+Voilà, merci pour votre aide et vos conseils chers coaches.
+
+Amicalement,
+
+Avé
